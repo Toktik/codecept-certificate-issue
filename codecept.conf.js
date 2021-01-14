@@ -9,7 +9,7 @@ exports.config = {
   output: './output',
   helpers: {
     Protractor: {
-      url: 'http://local.lls.org:4201',
+      url: 'http://github.com',
       driver: 'hosted',
       browser: 'chrome',
       rootElement: 'body',
